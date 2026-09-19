@@ -1,10 +1,10 @@
-# EXECUTION-OF-LOGIC-GATES-USING-PLC-LADDER-PROGRAM
-
- ### NAME : SHARIKA R
- ### REGISTER NUMBER : 212223230204
- ### DEPARTMENT : B.TECH(AI&DS)
- ### YEAR : IV
- ### DATE : 20/07/2026
+ # EXP1: EXECUTION OF LOGIC GATES USING PLC LADDER PROGRAM.
+ 
+ # NAME : SHARIKA R
+ # REGISTER NUMBER : 212223230204
+ # DEPARTMENT : B.TECH AI & DS
+ # YEAR : IV
+ # DATE : 20.07.2026
 
  
 # Aim:
@@ -26,52 +26,47 @@ Logic gates are the fundamental building blocks of digital circuits, and they pr
 # Basic Logic Gates:
 AND Gate:
 
-Function: Outputs HIGH only when all inputs are HIGH. Ladder Logic: Represented by two or more normally open contacts in series. OR Gate:
-
-Function: Outputs HIGH when at least one input is HIGH. Ladder Logic: Represented by two or more normally open contacts in parallel. NOT Gate:
-
-Function: Outputs the inverse of the input signal. Ladder Logic: Represented by a normally closed contact. NAND Gate:
-
-Function: Outputs LOW only when all inputs are HIGH. Ladder Logic: An AND gate followed by a NOT gate. NOR Gate:
-
-Function: Outputs LOW when at least one input is HIGH. Ladder Logic: An OR gate followed by a NOT gate. XOR Gate:
-
-Function: Outputs HIGH when an odd number of inputs are HIGH. Ladder Logic: Represented by a combination of AND, OR, and NOT gates.
-# Truth Tables:
-
-AND Gate:
-
-<img width="327" height="250" alt="image" src="https://github.com/user-attachments/assets/a14c1e93-0361-4da8-829f-426fa29d459d" />
-
+Function: Outputs HIGH only when all inputs are HIGH.
+Ladder Logic: Represented by two or more normally open contacts in series.
 OR Gate:
 
-<img width="324" height="254" alt="image" src="https://github.com/user-attachments/assets/ab21345a-e879-4bee-a70a-e24d5708c697" />
-
+Function: Outputs HIGH when at least one input is HIGH.
+Ladder Logic: Represented by two or more normally open contacts in parallel.
 NOT Gate:
 
-<img width="214" height="159" alt="image" src="https://github.com/user-attachments/assets/38e962b3-3b38-4372-8e5b-129b7ee460ff" />
-
+Function: Outputs the inverse of the input signal.
+Ladder Logic: Represented by a normally closed contact.
 NAND Gate:
 
-
-<img width="333" height="250" alt="image" src="https://github.com/user-attachments/assets/ed63c7e3-e134-4f73-901a-913277d13bc7" />
-
-
+Function: Outputs LOW only when all inputs are HIGH.
+Ladder Logic: An AND gate followed by a NOT gate.
 NOR Gate:
 
-
-
-<img width="330" height="249" alt="image" src="https://github.com/user-attachments/assets/dbdcfa87-c9af-4a6d-b6ff-5e5e6afcd7c0" />
-
-
+Function: Outputs LOW when at least one input is HIGH.
+Ladder Logic: An OR gate followed by a NOT gate.
 XOR Gate:
 
-
-
-<img width="326" height="248" alt="image" src="https://github.com/user-attachments/assets/4fb511df-cd55-4c50-aa20-c5c1f7fe603c" />
-
-
+Function: Outputs HIGH when an odd number of inputs are HIGH.
+Ladder Logic: Represented by a combination of AND, OR, and NOT gates.
+# Truth Tables:
+## AND GATE:
+ <img width="327" height="250" alt="image" src="https://github.com/user-attachments/assets/5cf9dd15-a6e2-4d1e-880d-d113ef1f2d0d" />
  
+## OR GATE:
+ <img width="324" height="254" alt="image" src="https://github.com/user-attachments/assets/1e6935d4-47f8-4452-aecb-05fe4197dac7" />
+ 
+## NOT GATE:
+ <img width="214" height="159" alt="image" src="https://github.com/user-attachments/assets/8321a8ed-43b3-4e1b-88de-a151e3f22772" />
+ 
+## NAND GATE:
+ <img width="333" height="250" alt="image" src="https://github.com/user-attachments/assets/ebaa3105-cfe5-474e-b809-6c83415a019a" />
+ 
+## NOR GATE:
+ <img width="330" height="249" alt="image" src="https://github.com/user-attachments/assets/7fc0c378-9e21-42bb-bd6a-e950b9323c17" />
+ 
+## XOR GATE:
+ <img width="326" height="248" alt="image" src="https://github.com/user-attachments/assets/99d7a304-789c-4570-91a9-685e225d0996" />
+
 # Procedure:
 Setup the PLC Programming Environment:
 
@@ -100,57 +95,37 @@ NOR Gate: The output should be HIGH only when both inputs are LOW.
 XOR Gate: The output should light up when exactly one input is HIGH.
 
 
-# SIMULATION RESULTS 
-### AND GATE:
+# SIMULATION RESULTS:
+
+## AND GATE:
+<img width="679" height="134" alt="Screenshot 2026-01-30 105256" src="https://github.com/user-attachments/assets/0cb7a363-2096-443e-9c63-5899b4d235ae" />
+
+## OR GATE:
+<img width="673" height="209" alt="Screenshot 2026-01-30 105322" src="https://github.com/user-attachments/assets/07c66130-781e-476c-918c-575d7753f99a" />
+
+## NOT GATE:
+<img width="656" height="136" alt="Screenshot 2026-01-30 105351" src="https://github.com/user-attachments/assets/7d0d308a-c63b-4a14-a45e-1e0df92c2d3a" />
+
+## NAND GATE:
+<img width="646" height="135" alt="Screenshot 2026-01-30 105413" src="https://github.com/user-attachments/assets/c3fe69b7-d1a2-423c-8b2a-27057bd15420" />
+<img width="649" height="134" alt="Screenshot 2026-01-30 105429" src="https://github.com/user-attachments/assets/0f3d4383-0f44-4706-b571-82031deb0475" />
+
+## NOR GATE:
+<img width="666" height="130" alt="Screenshot 2026-01-30 105446" src="https://github.com/user-attachments/assets/390d7ad2-8897-4518-b3be-4ad904ebbedd" />
+<img width="637" height="128" alt="Screenshot 2026-01-30 105458" src="https://github.com/user-attachments/assets/ed0db245-a9e2-49f2-8f33-45379aea4578" />
+
+## XOR GATE:
+<img width="657" height="230" alt="Screenshot 2026-01-30 105511" src="https://github.com/user-attachments/assets/a2a27697-b343-4f54-82a4-29a6aafa186c" />
 
 
+## DEVICE MONITOR TABLE:
+<img width="1919" height="1079" alt="Screenshot 2026-01-30 103856" src="https://github.com/user-attachments/assets/3587e76c-2d54-4d9c-a382-3fe589e5efe7" />
 
-<img width="678" height="137" alt="image" src="https://github.com/user-attachments/assets/da50139d-2dc1-4ef5-8025-3870f69fc373" />
+<img width="1919" height="1079" alt="Screenshot 2026-01-30 104856" src="https://github.com/user-attachments/assets/bfa6737a-b76c-419b-a682-353939cfa1ab" />
 
+<img width="1919" height="1079" alt="Screenshot 2026-01-30 105028" src="https://github.com/user-attachments/assets/2c326b5a-c974-4e34-b0c0-db4bbec3079d" />
 
-### OR GATE:
-
-
-<img width="655" height="221" alt="image" src="https://github.com/user-attachments/assets/ef2b2121-ecf2-4d23-8c1d-f942add8851b" />
-
-
-### NOT GATE:
-
-
-<img width="626" height="137" alt="image" src="https://github.com/user-attachments/assets/9513a541-e45d-434c-ab2b-195b797b30b3" />
-
-
-### NAND GATE:
-
-<img width="590" height="135" alt="image" src="https://github.com/user-attachments/assets/2c1a81bc-e50c-4d2e-b952-4195b04e6f67" />
-
-
-<img width="665" height="141" alt="image" src="https://github.com/user-attachments/assets/5495be03-3809-49e2-a22c-3081e31e291f" />
-
-
-
-### NOR GATE:
-
-<img width="611" height="132" alt="image" src="https://github.com/user-attachments/assets/e96a60d7-7689-41fb-b93e-80602a752c03" />
-
-<img width="665" height="150" alt="image" src="https://github.com/user-attachments/assets/51dc1d99-bc93-4bb8-a5b7-93de115ff8e0" />
-
-
-### XOR GATE:
-
-<img width="622" height="217" alt="image" src="https://github.com/user-attachments/assets/fd874010-413f-4368-910a-8f5586e25950" />
-
-
-### DEVICE MONITOR TABLE:
-
-<img width="1919" height="1028" alt="Screenshot 2026-01-30 183001" src="https://github.com/user-attachments/assets/4ac41dfa-7c5e-4104-88f7-90ee510d01b4" />
-<img width="1916" height="1034" alt="Screenshot 2026-01-30 183023" src="https://github.com/user-attachments/assets/4d9db4d4-5ff4-45de-9a35-e8403e367c03" />
-<img width="1884" height="1034" alt="Screenshot 2026-01-30 183048" src="https://github.com/user-attachments/assets/3bdb550a-0c28-4672-9006-9cb8557fbab9" />
-<img width="1910" height="1034" alt="Screenshot 2026-01-30 183101" src="https://github.com/user-attachments/assets/e516d8a5-008b-4aeb-8706-23ade2bf3e60" />
-
-
-
-
+<img width="1919" height="1079" alt="Screenshot 2026-01-30 105234" src="https://github.com/user-attachments/assets/5277e530-d922-4f24-adae-8a0bf0997d90" />
 
 
 # Results:

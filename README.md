@@ -105,46 +105,40 @@ XOR Gate: The output should light up when exactly one input is HIGH.
 
 
 
-<img width="560" height="116" alt="Screenshot 2026-01-30 181631" src="https://github.com/user-attachments/assets/6fff56ad-e505-4667-bbe6-c190625d96c9" />
+<img width="678" height="137" alt="image" src="https://github.com/user-attachments/assets/da50139d-2dc1-4ef5-8025-3870f69fc373" />
+
 
 ### OR GATE:
 
 
+<img width="655" height="221" alt="image" src="https://github.com/user-attachments/assets/ef2b2121-ecf2-4d23-8c1d-f942add8851b" />
 
-
-<img width="544" height="164" alt="Screenshot 2026-01-30 181638" src="https://github.com/user-attachments/assets/93adedf3-3f02-4d4e-911a-8b7ab0ec93a0" />
 
 ### NOT GATE:
 
 
+<img width="626" height="137" alt="image" src="https://github.com/user-attachments/assets/9513a541-e45d-434c-ab2b-195b797b30b3" />
 
-
-
-<img width="516" height="117" alt="Screenshot 2026-01-30 181645" src="https://github.com/user-attachments/assets/cd08d546-145c-4546-b9e2-f6f9c669f8a6" />
 
 ### NAND GATE:
 
+<img width="590" height="135" alt="image" src="https://github.com/user-attachments/assets/2c1a81bc-e50c-4d2e-b952-4195b04e6f67" />
 
 
+<img width="665" height="141" alt="image" src="https://github.com/user-attachments/assets/5495be03-3809-49e2-a22c-3081e31e291f" />
 
 
-<img width="549" height="127" alt="Screenshot 2026-01-30 181653" src="https://github.com/user-attachments/assets/193d7c67-c4f1-4994-ae98-947c16af653c" />
-<img width="551" height="117" alt="Screenshot 2026-01-30 181659" src="https://github.com/user-attachments/assets/8c39baab-7298-4599-a642-16f45b8bf153" />
 
 ### NOR GATE:
 
+<img width="611" height="132" alt="image" src="https://github.com/user-attachments/assets/e96a60d7-7689-41fb-b93e-80602a752c03" />
 
+<img width="665" height="150" alt="image" src="https://github.com/user-attachments/assets/51dc1d99-bc93-4bb8-a5b7-93de115ff8e0" />
 
-
-<img width="536" height="115" alt="Screenshot 2026-01-30 181704" src="https://github.com/user-attachments/assets/a0ec5a03-826a-4979-919f-ce248aa63121" />
-<img width="514" height="106" alt="Screenshot 2026-01-30 181711" src="https://github.com/user-attachments/assets/512f99cb-ec2e-4275-ab5f-803854f39bec" />
 
 ### XOR GATE:
 
-
-
-
-<img width="566" height="179" alt="Screenshot 2026-01-30 181722" src="https://github.com/user-attachments/assets/f80c1124-f33d-45f6-ae9f-5c6065cec19b" />
+<img width="622" height="217" alt="image" src="https://github.com/user-attachments/assets/fd874010-413f-4368-910a-8f5586e25950" />
 
 
 ### DEVICE MONITOR TABLE:
